@@ -1,0 +1,1 @@
+insert into ORGANIZATION (ID, NAME) values (1, 'root');
